@@ -1,2 +1,7 @@
 I am a txt file
+<<<<<<< HEAD
 This is NEW-BUG branch
+=======
+I am a new file
+This is MAIN branch
+>>>>>>> main
