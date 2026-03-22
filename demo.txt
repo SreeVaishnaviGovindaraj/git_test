@@ -1,5 +1,8 @@
 I am a txt file
 I am a new file
 This is MAIN branch
+initial file
+Initial line
+Change from new-bug branch
 Initial line
 Change from MAIN branch
